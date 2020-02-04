@@ -22,5 +22,8 @@
             "url": "http://www.uderzo.it/main_products/space_sniffer/download_alt.html",
             "find": "<td>([a-fA-F0-9]{40})</td>"
         }
-    }
+    },
+    "notes": [
+        "下载的是 Zombie110year 在 CDN 中保存的版本"
+    ]
 }
