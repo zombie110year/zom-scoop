@@ -4,7 +4,7 @@
     "version": "0.2020.01.26",
     "license": "MIT",
     "url": "http://q5iu5a5ni.bkt.clouddn.com/sudo.ps1",
-    "hash": "0d3cf564dc584ea98b213b4763228dee523c32388b1293e77eff70344d294aa8",
+    "hash": "sha256:9909D1043A1E2EBD1A3F1699A06A71414569D0D53B03B52D8F122623989322EA",
     "bin": "sudo.ps1",
     "checkver": {
         "url": "https://github.com/lukesampson/psutils/commits/master/sudo.ps1.atom",
