@@ -1,0 +1,19 @@
+{
+    "homepage": "https://developer.qiniu.com/kodo/tools/1302/qshell",
+    "description": "七牛云 CLI 客户端",
+    "version": "2.4.1",
+    "url": "http://devtools.qiniu.com/qshell-windows-x64-v2.4.1.exe.zip?ref=developer.qiniu.com",
+    "hash": "sha256:A71CAA3090D739124C1193A49BB929081190C146C86A9431B10A93A263B920CD",
+    "extract_to": [
+        ""
+    ],
+    "bin": [
+        [
+            "qshell-windows-x64-v2.4.1.exe",
+            "qshell"
+        ]
+    ],
+    "notes": [
+        "由 Zombie110year <zombie110year@outlook.com> 整理"
+    ]
+}

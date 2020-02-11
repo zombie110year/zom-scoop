@@ -14,6 +14,13 @@
             "Polar BookShelf"
         ]
     ],
+    "checkver": {
+        "url": "https://github.com/burtonator/polar-bookshelf/releases",
+        "regex": "v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": ""
+    },
     "notes": [
         "由 Zombie110year <zombie110year@outlook.com> 整理"
     ]
