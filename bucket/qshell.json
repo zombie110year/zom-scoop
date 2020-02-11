@@ -12,7 +12,7 @@
             "qshell-windows-x64-v2.4.1.exe",
             "qshell",
             "-C",
-            "$persist_dir/.qshell.json"
+            "$persist_dir\\.qshell.json"
         ]
     ],
     "persist": [
