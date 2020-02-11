@@ -10,13 +10,8 @@
     "bin": [
         [
             "qshell-windows-x64-v2.4.1.exe",
-            "qshell",
-            "-C",
-            "$persist_dir\\.qshell.json"
+            "qshell"
         ]
-    ],
-    "persist": [
-        ".qshell.json"
     ],
     "notes": [
         "由 Zombie110year <zombie110year@outlook.com> 整理"
