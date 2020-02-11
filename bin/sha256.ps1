@@ -2,6 +2,9 @@
 param (
   [string]$filepath
 )
+if(-not (Test-Path ./tmp)) {
+  mkdir ./tmp
+}
 $oldfile = (Get-Item $filepath)
 $newpath = "./tmp/$($oldfile.Name)"
 cp -Force $oldfile $newpath
