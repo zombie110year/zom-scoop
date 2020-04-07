@@ -3,7 +3,7 @@
     "description": "一个类似于 Unix sudo 的工具，不幸的是，会显示 UAC 弹窗。",
     "version": "0.2020.01.26",
     "license": "MIT",
-    "url": "http://q5iu5a5ni.bkt.clouddn.com/sudo.ps1",
+    "url": "https://gitee.com/zombie110year/zom-scoop/raw/master/data/sudo.ps1",
     "hash": "sha256:9909D1043A1E2EBD1A3F1699A06A71414569D0D53B03B52D8F122623989322EA",
     "bin": "sudo.ps1",
     "checkver": {
