@@ -3,12 +3,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/txthinking/brook/releases/download/v20200502/brook_windows_amd64.exe",
-            "bin": ["brook_windows_amd64.exe"],
+            "bin": [["brook_windows_amd64.exe", "brook"]],
             "hash": "7B70EB89121E263083B54762D08F0761B18E80CC440E07A2932B03AE49C15F03"
         },
         "32bit": {
             "url": "https://github.com/txthinking/brook/releases/download/v20200502/brook_windows_386.exe",
-            "bin": ["brook_windows_386.exe"],
+            "bin": [["brook_windows_386.exe", "brook"]],
             "hash": "1FE9E0D10AEFBA10C9073D58999E4144EEB97E00AA46DD1546E7DC55918D175E"
         }
     },
